@@ -1,0 +1,12 @@
+{
+  "todos": [
+    {
+      "content": "Hello",
+      "active": true
+    },
+    {
+      "content": "world",
+      "active": false
+    }
+  ]
+}
